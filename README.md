@@ -11,10 +11,10 @@ Nuestro cliente requiere contar con un sitio web para identificar el personaje m
 
 ## Requerimientos generales:
 
-[ ] Crear un repositorio en tu cuenta de Github para almacenar el proyecto
-[ ] Crea una rama por cada fase, ejemplo: maquetacion, interaccion, integracion, etc
-[ ] Realizar comentarios en tu código cuando creas que se requiere una aclaración importante en tu desarrollo
-[ ] Crea un archivo readme en donde indiques los pasos para replicar tu proyecto
+1. [ ] Crear un repositorio en tu cuenta de Github para almacenar el proyecto
+2. [ ] Crea una rama por cada fase, ejemplo: maquetacion, interaccion, integracion, etc
+3. [ ] Realizar comentarios en tu código cuando creas que se requiere una aclaración importante en tu desarrollo
+4. [ ] Crea un archivo readme en donde indiques los pasos para replicar tu proyecto
 
 ### Fase 1 - Maquetación
 En esta fase deberás realizar el corte y maquetación del sitio web. Para esto cuentas con varios recursos:
@@ -26,36 +26,36 @@ En esta fase deberás realizar el corte y maquetación del sitio web. Para esto 
     - [Escritorio](https://www.figma.com/proto/EgWspZWTzvX0MpPIjLDwhB/Votación-Layouts?node-id=84%3A2401&scaling=min-zoom&page-id=84%3A1031&starting-point-node-id=84%3A2401)
 
 ## Requerimientos:
-[ ] Debes crear el archivo html del home del sitio web
-[ ] Debes utilizar media queries para cumplir con los tipos de resolución
-[ ] Puedes utilizar procesadores como SASS/LESS para optimizar y ahorrar trabajo en tus estilos CSS
-[ ] El menú principal debe direccionar a otras páginas internas. Aunque sólo te indicamos cómo se debería ver el home, puedes crear páginas vacías con los títulos de cada sección.
+1. [ ] Debes crear el archivo html del home del sitio web
+2. [ ] Debes utilizar media queries para cumplir con los tipos de resolución
+3. [ ] Puedes utilizar procesadores como SASS/LESS para optimizar y ahorrar trabajo en tus estilos CSS
+4. [ ] El menú principal debe direccionar a otras páginas internas. Aunque sólo te indicamos cómo se debería ver el home, puedes crear páginas vacías con los títulos de cada sección.
 
 ### Fase 2 - Interacción con Javascript
 Para esta fase debes agregar alguna interacción con Javascript al home creado en la fase 1.
 
 ## Requerimientos:
-[ ] Crear un archivo en formato JSON que contenga la información sobre los personajes para votar
-[ ] Consulta y muestra los personajes almacenados en el archivo JSON en el home
-[ ] Agregar un mensaje (estilo toast) cuando un visitante realice un voto, debe contener el siguiente texto: "Gracias por tu voto"
-[ ] Si el voto es positivo, el mensaje debe tener un estilo verde (o similar), de confirmación, de lo contrario, debe ser rojo (o similar)
-[ ] No debe existir restricción por la cantidad de votos por usuario
+1. [ ] Crear un archivo en formato JSON que contenga la información sobre los personajes para votar
+2. [ ] Consulta y muestra los personajes almacenados en el archivo JSON en el home
+3. [ ] Agregar un mensaje (estilo toast) cuando un visitante realice un voto, debe contener el siguiente texto: "Gracias por tu voto"
+4. [ ] Si el voto es positivo, el mensaje debe tener un estilo verde (o similar), de confirmación, de lo contrario, debe ser rojo (o similar)
+5. [ ] No debe existir restricción por la cantidad de votos por usuario
 
 ### Fase 3: PHP y Joomla
 En esta fase podrás demostrar tus habilidades con Joomla y PHP, para esto debes cumplir con los siguientes requerimientos:
 
 ## Requerimientos:
 
-[ ] Debes crear una instalación limpia de Joomla
-[ ] Crea y configura por defecto la plantilla que creaste en la fase 1
-[ ] Vincula el link de "Log In / Sign Up" del menú principal a la pantalla de Inicio de sesión de Joomla para que los usuarios puedan registrarse o ingresar a su cuenta
-[ ] Crea un componente que permita gestionar los personajes a votar, debes permitir crear, editar y eliminar los personajes desde el panel de control de Joomla (Dashboard).
-[ ] Crea una cuenta gratuita en algún proveedor de hosting y publica el sitio que acabas de crear. Indícanos el link en el readme de tu repositorio.
+1. [ ] Debes crear una instalación limpia de Joomla
+2. [ ] Crea y configura por defecto la plantilla que creaste en la fase 1
+3. [ ] Vincula el link de "Log In / Sign Up" del menú principal a la pantalla de Inicio de sesión de Joomla para que los usuarios puedan registrarse o ingresar a su cuenta
+4. [ ] Crea un componente que permita gestionar los personajes a votar, debes permitir crear, editar y eliminar los personajes desde el panel de control de Joomla (Dashboard).
+5. [ ] Crea una cuenta gratuita en algún proveedor de hosting y publica el sitio que acabas de crear. Indícanos el link en el readme de tu repositorio.
 
 
 ### Entrega
 
-[ ] En el readme de tu repositorio indícanos en un breve resumen qué fue lo que más te gustó y se te dificultó de esta prueba.
-[ ] Aparte de las tecnologías usadas en esta prueba, qué más te gusta hacer o te sientes más hábil
-[ ] Incluye el link donde alojaste el sitio web resultante de la fase 3
-[ ] Envía un correo a daniel.alvarez@emerald.studio con el asunto "Prueba de desarrollo web PHP-Joomla" en donde indiques el link de tu repositorio. Asegúrate de que sea público para que podamos visualizarlo sin restricciones.
+1. [ ] En el readme de tu repositorio indícanos en un breve resumen qué fue lo que más te gustó y se te dificultó de esta prueba.
+2. [ ] Aparte de las tecnologías usadas en esta prueba, qué más te gusta hacer o te sientes más hábil
+3. [ ] Incluye el link donde alojaste el sitio web resultante de la fase 3
+4. [ ] Envía un correo a daniel.alvarez@emerald.studio con el asunto "Prueba de desarrollo web PHP-Joomla" en donde indiques el link de tu repositorio. Asegúrate de que sea público para que podamos visualizarlo sin restricciones.
