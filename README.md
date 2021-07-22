@@ -4,19 +4,19 @@ Prueba de desarrollo web PHP - Joomla
 ¡Hola! Queremos saber si estás list@ para hacer parte de nuestro equipo.
 ---------------------------------
 
-### Descripción
+# Descripción
 Nuestro cliente requiere contar con un sitio web para identificar el personaje más influyente actualmente. Para esto, requiere que Emerald Studio realice un sitio web que permita a los visitantes votar por los personajes disponibles y mostrar los resultados de la votación.
 
 > **El reto**: Construir un sitio web responsive que permita la visualización de los candidatos y a su vez votar por cada uno guardando un registro de cada voto.
 
-## Requerimientos generales:
+### Requerimientos generales:
 
 1. [ ] Crear un repositorio en tu cuenta de Github para almacenar el proyecto
 2. [ ] Crea una rama por cada fase, ejemplo: maquetacion, interaccion, integracion, etc
 3. [ ] Realizar comentarios en tu código cuando creas que se requiere una aclaración importante en tu desarrollo
 4. [ ] Crea un archivo readme en donde indiques los pasos para replicar tu proyecto
 
-### Fase 1 - Maquetación
+# Fase 1 - Maquetación
 En esta fase deberás realizar el corte y maquetación del sitio web. Para esto cuentas con varios recursos:
 - Plantilla en formato png [pngTemplate](https://drive.google.com/file/d/1Mla5vJJIPrDODWXDfuvWheRq28UFq-kL/view?usp=sharing)
 - Plantilla en formato psd [psdTemplate](https://drive.google.com/file/d/1zSruxXa3xoLDHKPswJNjCr2DQf_mkpPg/view?usp=sharing)
@@ -25,26 +25,26 @@ En esta fase deberás realizar el corte y maquetación del sitio web. Para esto 
     - [Tabletas](https://www.figma.com/proto/EgWspZWTzvX0MpPIjLDwhB/Votación-Layouts?node-id=84%3A1033&scaling=min-zoom&page-id=84%3A1032&starting-point-node-id=84%3A1033)
     - [Escritorio](https://www.figma.com/proto/EgWspZWTzvX0MpPIjLDwhB/Votación-Layouts?node-id=84%3A2401&scaling=min-zoom&page-id=84%3A1031&starting-point-node-id=84%3A2401)
 
-## Requerimientos:
+### Requerimientos:
 1. [ ] Debes crear el archivo html del home del sitio web
 2. [ ] Debes utilizar media queries para cumplir con los tipos de resolución
 3. [ ] Puedes utilizar procesadores como SASS/LESS para optimizar y ahorrar trabajo en tus estilos CSS
 4. [ ] El menú principal debe direccionar a otras páginas internas. Aunque sólo te indicamos cómo se debería ver el home, puedes crear páginas vacías con los títulos de cada sección.
 
-### Fase 2 - Interacción con Javascript
+# Fase 2 - Interacción con Javascript
 Para esta fase debes agregar alguna interacción con Javascript al home creado en la fase 1.
 
-## Requerimientos:
+### Requerimientos:
 1. [ ] Crear un archivo en formato JSON que contenga la información sobre los personajes para votar
 2. [ ] Consulta y muestra los personajes almacenados en el archivo JSON en el home
 3. [ ] Agregar un mensaje (estilo toast) cuando un visitante realice un voto, debe contener el siguiente texto: "Gracias por tu voto"
 4. [ ] Si el voto es positivo, el mensaje debe tener un estilo verde (o similar), de confirmación, de lo contrario, debe ser rojo (o similar)
 5. [ ] No debe existir restricción por la cantidad de votos por usuario
 
-### Fase 3: PHP y Joomla
+# Fase 3: PHP y Joomla
 En esta fase podrás demostrar tus habilidades con Joomla y PHP, para esto debes cumplir con los siguientes requerimientos:
 
-## Requerimientos:
+### Requerimientos:
 
 1. [ ] Debes crear una instalación limpia de Joomla
 2. [ ] Crea y configura por defecto la plantilla que creaste en la fase 1
@@ -53,7 +53,7 @@ En esta fase podrás demostrar tus habilidades con Joomla y PHP, para esto debes
 5. [ ] Crea una cuenta gratuita en algún proveedor de hosting y publica el sitio que acabas de crear. Indícanos el link en el readme de tu repositorio.
 
 
-### Entrega
+# Entrega
 
 1. [ ] En el readme de tu repositorio indícanos en un breve resumen qué fue lo que más te gustó y se te dificultó de esta prueba.
 2. [ ] Aparte de las tecnologías usadas en esta prueba, qué más te gusta hacer o te sientes más hábil
